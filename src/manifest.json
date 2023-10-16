@@ -1,0 +1,14 @@
+{
+    "name": "Jaza Autofill",
+    "version": "1.0.0",
+    "description": "A Chrome extension to autofill forms on KRA, eCitizen, NSSF, NHIF, and ENFS websites.",
+    "author": "Your Name",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "src/App.js"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
